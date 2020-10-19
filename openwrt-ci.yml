@@ -12,7 +12,7 @@ name: OpenWrt-K3
 on:
   push:
     branches: 
-    - master
+      - master
   schedule:
    - cron: 0 20 * * 
 
